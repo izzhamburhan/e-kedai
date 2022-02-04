@@ -1,3 +1,24 @@
+# Learning Process -> Laravel v2
+
+## E-Kedai
+
+Creating e-commerce website for training laravel
+following tutorial by web code
+
+Step by step : 
+- Setup LAravel Environment
+- Creating Auth(User & Admin)
+
+## Software / Tool 
+- Laragon
+- Node.js
+- Composer
+- Laravel
+- Bootstrap
+- HeidiSQL
+- Jetstream : Livewire
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
