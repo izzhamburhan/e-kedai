@@ -6,7 +6,8 @@ Creating e-commerce website for training laravel
 following tutorial by web code
 
 Step by step : 
-- l
+- Setup LAravel Environment
+- Creating Auth(User & Admin)
 
 ## Software / Tool 
 - Laragon
